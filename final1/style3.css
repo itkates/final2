@@ -1,0 +1,12 @@
+.shadowbox {
+  width: 10%;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  background: #FFC0CB;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  display: inline-block;
+}
+img {
+  width: 30%;
+}
